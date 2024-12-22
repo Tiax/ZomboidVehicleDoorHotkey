@@ -1,0 +1,9 @@
+name=Vehile Doors Hotkey
+id=VehicleDoorsHotkey
+author=Tiax
+description=Allows you to Shift+Interact to open/close vehicle doors. Same behaviour as with the Radial Menu, just with 100% less Radial Menus!
+poster=poster.png
+modurl=https://github.com/tiax/ZomboidVehicleDoorHotkey
+modversion=42.0-1
+pzversion=42
+versionMin=41.60
