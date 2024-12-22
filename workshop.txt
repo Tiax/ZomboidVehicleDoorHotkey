@@ -2,6 +2,5 @@ version=1
 id=2290459371
 title=Vehile Doors Hotkey
 description=Allows you to Shift+Interact to open/close vehicle doors. Same behaviour as with the Radial Menu, just with 100% less Radial Menus!
-tags=Mod
-tags=QoL
+tags=Build 41;Build 42;Vehicles;QoL
 visibility=public
